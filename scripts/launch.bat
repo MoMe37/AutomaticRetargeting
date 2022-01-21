@@ -1,0 +1,1 @@
+"C:/Program Files/Blender Foundation/Blender 3.0/blender" --python ../FixedMap/mapping.py
